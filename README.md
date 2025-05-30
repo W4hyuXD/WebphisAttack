@@ -5,7 +5,8 @@ This tool functions to attack phishing websites/scamming websites that are typic
 ## Installation 
 
 
-<details>
+<details open>
+    <summary><strong>Screenshot 📸</strong></summary>
     
  - Main Menu
    - Spam Web Phising (Available)
@@ -19,7 +20,7 @@ This tool functions to attack phishing websites/scamming websites that are typic
  - Web Phising Spam Login
    - Input Url Target
    - Input Spam Amount
-   - Input Threads
+   - Input Thread
    - Log Spam
      ![Image](https://github.com/user-attachments/assets/eacdd53b-9ecc-4cfd-9358-be64bb50296b)
    - Web Testing
