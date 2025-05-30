@@ -1,6 +1,6 @@
 # Web Phising Attackers
 
-This tool functions to attack phishing websites/scamming websites that are typically created to deceive someone by luring victims with promises of diamonds or rare in-game items. The tool's working method is quite simple, which is by sending fake login data or information to the phishing website with the aim of disrupting it.
+> This tool functions to attack phishing websites/scamming websites that are typically created to deceive someone by luring victims with promises of diamonds or rare in-game items. The tool's working method is quite simple, which is by sending fake login data or information to the phishing website with the aim of disrupting it.
 
 ## Installation 
 ```bash
@@ -13,11 +13,12 @@ $ pip install -r requirements.txt
 $ python3 Run.py
 ```
 
-## Warning ⚠️ 
-The developer is not responsible for any misuse of this tool. Please use it wisely, as the developer will not be held fully accountable for any misuse by third parties. Thank you.
+### Warning ⚠️ 
+
+> The developer is not responsible for any misuse of this tool. Please use it wisely, as the developer will not be held fully accountable for any misuse by third parties. Thank you.
 
 <details>
-    <summary><strong>Screenshot 📸</strong></summary>
+    <summary><bold>Screenshot 📸</bold></summary>
     
  - Main Menu
    - Spam Web Phising (Available)
