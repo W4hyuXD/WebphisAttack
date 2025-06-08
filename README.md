@@ -10,7 +10,7 @@ $ git clone https://github.com/W4hyuXD/WebphisAttack
 $ cd WebphisAttack
 $ pip install requests
 $ pip install -r requirements.txt
-$ python3 Run.py
+$ python3 Run.pyc
 ```
 
 ### Warning ⚠️ 
